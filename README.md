@@ -1,6 +1,6 @@
 # Write-a-Data-Science-Blog-Post
 
-##Installation
+## Installation
 
 - Libraries used for this application are:
 - re, sys, os, datetime
@@ -8,3 +8,5 @@
 - matplotlib.pyplot
 - numpy as np
 - pandas as pd
+
+## Project Motivation
