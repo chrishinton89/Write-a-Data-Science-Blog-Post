@@ -9,6 +9,11 @@
 - numpy as np
 - pandas as pd
 
+## Files Used
+
+1) AppleHealthData.csv
+2) combined_gpxdata.csv
+
 ## Project Motivation
 I'm a keen runner. I use running as a main mode of exercise and i use it to focus and discipline myself. Despite not being athletic by any means, i enjoy the self-competative aspect to running and being able to always challenege my own performance and ability.
 
