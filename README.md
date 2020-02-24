@@ -13,7 +13,7 @@
 
 ## Files Used
 
-1) AppleHealthData.csv
+1) AppleHealthData.csv (this file is stored on this repository as a zip)
 2) combined_gpxdata.csv
 
 ## Project Motivation
