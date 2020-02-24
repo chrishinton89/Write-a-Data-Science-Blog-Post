@@ -23,4 +23,4 @@ In this article I evaluate the performance and stability of heart rate measureme
 
 ## Results
 
-Blog Post Link - 
+Results can be found in the following Medium post - https://medium.com/@hinton_/ai-model-accuracy-at-predicting-workout-heart-rate-4bd22d38d845
