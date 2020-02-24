@@ -4,10 +4,12 @@
 
 - Libraries used for this application are:
 - re, sys, os, datetime
-- gpxpy
 - matplotlib.pyplot
 - numpy as np
 - pandas as pd
+- sklearn.linear_model - LogisticRegression
+- sklearn.model_selection - train_test_split
+- sklearn.metrics - accuracy_score
 
 ## Files Used
 
@@ -15,10 +17,10 @@
 2) combined_gpxdata.csv
 
 ## Project Motivation
-I'm a keen runner. I use running as a main mode of exercise and i use it to focus and discipline myself. Despite not being athletic by any means, i enjoy the self-competative aspect to running and being able to always challenege my own performance and ability.
+I'm a keen runner. It’s main mode of exercise and I use it to help focus myself. Despite not being athletic by any means, I enjoy the self-competitive aspect in being able to always challenge my own performance and ability.
 
-In this project i will evaluate the last two years performance and stability of heart rate mesurements from my apple watch during workouts. I will use this to determine firstly what patterns can be seen with relation to heart rate and elevation. Using this information i will decide if data modeling would be applicable or if there is too much variation between results.
+In this article I evaluate the performance and stability of heart rate measurements from an Apple watch during run workouts. I will use this to gain an insight as to whether any patterns can be seen with respect to heart rate and elevation. Using this information I will decide how accurate it would be to model and predict heart rate measurements to support and improve my performance training.
 
 ## Results
 
-Results can be found here...
+Blog Post Link - 
