@@ -34,7 +34,7 @@ o On average, how long does it take to register the first heart rate measurement
 
 ## Prepare Data
 
-The data used is a relatively high quality. Data preparation is. Carried out in the file "Workout Data Performance.ipynb"  which drops data not required and handles categories values for modelling.
+The data used is a relatively high quality. Data preparation is carried out in the file "Workout Data Performance.ipynb"  which drops data not required and handles categories values for modelling.
 
 ## Data Modelling
 
